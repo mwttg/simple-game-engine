@@ -1,7 +1,7 @@
 # History
 
 ### 2021-07-04
-Starting slowly by creating a text file reader.
+Starting slowly by creating a text file reader, and an OpenGL window.
 
 
 ### 2021-07-01
