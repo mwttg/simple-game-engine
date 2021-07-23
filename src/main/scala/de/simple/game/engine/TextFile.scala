@@ -10,7 +10,7 @@ object TextFile {
   private val Log = LoggerFactory.getLogger(this.getClass)
 
   /**
-    * Reads a text file (from /resources) and returns a Try monad of the lines (as Vector of String).
+    * Reads a text file (from /resources) and returns a Try monad of the lines of that file (as Vector of String).
     *
     * @param resourceFilename the filename inside the resources folder
     * @return lines of this text file as a Vector in a Try monad
